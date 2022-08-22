@@ -1,0 +1,501 @@
+First name,Last name,Skill level,Paid,Team,Tournament
+Isaac,Abbenante,2,Yes,Team 5,Beach Gala 2021
+Derek,Lomago,3,No,Team 4,Beach Gala 2021
+Janice,Schwartz,3,Yes,Team 3,Beach Gala 2021
+Sarah,Weaver,1,No,Team 8,Beach Gala 2021
+Lynn,Allen,5,Yes,Team 7,Beach Gala 2021
+Steven,Stinson,3,Yes,Team 4,Beach Gala 2021
+Brady,Levesque,2,No,Team 1,Beach Gala 2021
+Genevieve,Langston,5,No,Team 3,Beach Gala 2021
+Joseph,Mills,,No,Team 2,Beach Gala 2021
+Leah,Ruiz,1,Yes,Team 1,Beach Gala 2021
+Timothy,Marino,3,Yes,Team 1,Beach Gala 2021
+Leon,Batson,4,No,Team 2,Beach Gala 2021
+Garrett,Leal,2,Yes,Team 4,Beach Gala 2021
+Joanne,Bilger,4,No,Team 8,Beach Gala 2021
+Yolanda,Kim,1,No,Team 6,Beach Gala 2021
+Matthew,Harnish,5,No,Team 6,Beach Gala 2021
+Keesha,Lewis,4,No,Team 5,Beach Gala 2021
+William,Rodkey,4,No,Team 1,Beach Gala 2021
+Robert,Mills,5,No,Team 3,Beach Gala 2021
+Michael,Trevino,1,Yes,Team 1,Beach Gala 2021
+Jonathan,Gallaher,5,Yes,Team 8,Beach Gala 2021
+Karen,Terhune,4,Yes,Team 4,Beach Gala 2021
+Lauren,Mohn,2,Yes,Team 8,Beach Gala 2021
+Howard,Hernandez,2,Yes,Team 1,Beach Gala 2021
+Adam,Feinberg,3,Yes,Team 6,Beach Gala 2021
+Mary,Etherington,3,No,Team 2,Beach Gala 2021
+Paul,Nall,2,Yes,Team 1,Beach Gala 2021
+Kelly,Parvin,1,No,Team 7,Beach Gala 2021
+Steven,Ellis,2,Yes,Team 3,Beach Gala 2021
+Shirley,Spickard,3,No,Team 7,Beach Gala 2021
+Jack,Martinez,,Yes,Team 3,Beach Gala 2021
+Van,Wallace,2,Yes,Team 3,Beach Gala 2021
+Mary,Smith,2,No,Team 1,Beach Gala 2021
+Naomi,Brewer,3,Yes,Team 5,Beach Gala 2021
+Kathleen,Bair,1,No,Team 6,Beach Gala 2021
+Amos,Brown,1,No,Team 1,Beach Gala 2021
+Janis,Lee,1,No,Team 2,Beach Gala 2021
+James,Willingham,5,No,Team 4,Beach Gala 2021
+Theodore,Tighe,1,No,Team 4,Beach Gala 2021
+Forest,Steffee,4,Yes,Team 7,Beach Gala 2021
+Gerald,Moeller,4,Yes,Team 4,Beach Gala 2021
+Ann,Watt,1,No,Team 4,Beach Gala 2021
+Robert,Jodoin,4,No,Team 4,Beach Gala 2021
+Jeanette,Hazzard,1,No,Team 7,Beach Gala 2021
+Deborah,Bricker,4,No,Team 6,Beach Gala 2021
+Gordon,Kuehl,4,Yes,Team 5,Beach Gala 2021
+Jerry,Burkett,2,No,Team 4,Beach Gala 2021
+Jacob,Vetter,2,No,Team 4,Beach Gala 2021
+Tina,Chisam,3,No,Team 8,Beach Gala 2021
+Essie,Hilton,5,Yes,Team 8,Beach Gala 2021
+Johnny,Russell,3,No,Team 3,Beach Gala 2021
+Kelly,Jones,2,Yes,Team 1,Beach Gala 2021
+Horacio,Adkins,4,Yes,Team 7,Beach Gala 2021
+Lynn,Schrenk,1,No,Team 7,Beach Gala 2021
+Keith,Dean,1,No,Team 8,Beach Gala 2021
+Chara,Washington,3,No,Team 5,Beach Volley Gala
+Patrick,Tyler,5,Yes,Team 3,Beach Volley Gala
+Katie,Estes,5,Yes,Team 7,Beach Volley Gala
+Luisa,Monnier,5,Yes,Team 8,Beach Volley Gala
+Richard,Green,4,No,Team 7,Beach Volley Gala
+Rosario,Louis,3,No,Team 4,Beach Volley Gala
+Kacie,Oconnor,4,No,Team 1,Beach Volley Gala
+Susan,Oldham,2,No,Team 6,Beach Volley Gala
+Lucinda,Ainsworth,2,No,Team 2,Beach Volley Gala
+Raymond,Frederick,4,No,Team 7,Beach Volley Gala
+James,Pearson,3,No,Team 3,Beach Volley Gala
+Alison,Sanchez,2,No,Team 7,Beach Volley Gala
+John,Defreitas,4,No,Team 2,Beach Volley Gala
+Terry,Ken,5,Yes,Team 7,Beach Volley Gala
+Doris,Mccall,3,No,Team 3,Beach Volley Gala
+Alissa,Pearson,3,No,Team 2,Beach Volley Gala
+Holly,Brennan,2,Yes,Team 2,Beach Volley Gala
+Joe,Mcginn,5,Yes,Team 6,Beach Volley Gala
+Clifford,Shaw,4,No,Team 1,Beach Volley Gala
+Isaiah,Landry,2,Yes,Team 8,Beach Volley Gala
+Clarence,Calvert,5,No,Team 8,Beach Volley Gala
+Ronald,Johnson,2,Yes,Team 2,Beach Volley Gala
+Mary,Boucher,,Yes,Team 4,Beach Volley Gala
+Alexander,Diaz,5,Yes,Team 8,Beach Volley Gala
+Ronald,Margulis,1,No,Team 2,Beach Volley Gala
+Oliver,Schroyer,2,No,Team 4,Beach Volley Gala
+Dale,Blankenship,1,No,Team 6,Beach Volley Gala
+Alma,Nelson,5,Yes,Team 2,Beach Volley Gala
+Mary,Horn,4,No,Team 4,Beach Volley Gala
+Teresa,England,4,No,Team 1,Beach Volley Gala
+Carey,Varner,2,No,Team 2,Beach Volley Gala
+Joshua,Warren,1,Yes,Team 3,Beach Volley Gala
+Glen,Gipson,1,Yes,Team 5,Beach Volley Gala
+Sun,Restrepo,2,No,Team 3,Beach Volley Gala
+Loretta,Wilson,3,Yes,Team 5,Beach Volley Gala
+Leon,Freeman,3,No,Team 1,Beach Volley Gala
+Brandy,Matz,4,Yes,Team 8,Beach Volley Gala
+Pamela,Pate,1,No,Team 2,Beach Volley Gala
+Joshua,Deibel,3,Yes,Team 6,Beach Volley Gala
+Elwood,Daniel,5,Yes,Team 7,Beach Volley Gala
+Sarah,Rosboril,2,No,Team 1,Beach Volley Gala
+Sallie,Carr,3,No,Team 4,Beach Volley Gala
+Justin,Cluff,5,No,Team 7,Beach Volley Gala
+Denise,Yazzie,3,No,Team 1,Beach Volley Gala
+Zachariah,Phillips,5,No,Team 2,Beach Volley Gala
+Ernest,Sands,5,No,Team 8,Beach Volley Gala
+Yanira,Smith,4,Yes,Team 4,Beach Volley Gala
+Nettie,Soria,4,Yes,Team 1,Beach Volley Gala
+David,Lindsey,2,Yes,Team 1,Beach Volley Gala
+Michael,Defir,3,No,Team 7,Beach Volley Gala
+Crystal,Denmon,2,No,Team 8,Beach Volley Gala
+Keith,Hays,5,No,Team 4,Beach Volley Gala
+Harold,Dever,3,No,Team 6,Beach Volley Gala
+Melissa,White,4,Yes,Team 3,Beach Volley Gala
+Ethel,Garcia,5,No,Team 1,Beach Volley Gala
+Gladys,Hoehn,4,Yes,Team 2,Beach Volley Gala
+John,Wade,1,No,Team 1,Beach Volley Gala
+Alana,Rambo,2,No,Team 5,Beach Volley Gala
+Maria,Graig,,Yes,Team 2,Beach Volley Gala
+Nadia,Cottrell,5,No,Team 4,Beach Volley Gala
+Charles,Higgins,1,Yes,Team 4,Beach Volley Gala
+Brent,Grinder,4,Yes,Team 7,Christmas Beach Volley
+Duane,Murphy,3,Yes,Team 2,Christmas Beach Volley
+James,Richter,2,Yes,Team 5,Christmas Beach Volley
+Kristy,Purdom,2,Yes,Team 5,Christmas Beach Volley
+Michael,Griffin,4,Yes,Team 8,Christmas Beach Volley
+Edith,Polan,5,Yes,Team 1,Christmas Beach Volley
+Kisha,Rodriguez,1,No,Team 1,Christmas Beach Volley
+Janet,Lopez,2,No,Team 6,Christmas Beach Volley
+Sonya,Linton,1,Yes,Team 6,Christmas Beach Volley
+Antonio,Keith,4,No,Team 6,Christmas Beach Volley
+Karyn,Green,2,Yes,Team 6,Christmas Beach Volley
+Karen,Merrell,1,No,Team 8,Christmas Beach Volley
+Ramon,Santangelo,5,No,Team 4,Christmas Beach Volley
+Joel,Jones,4,No,Team 8,Christmas Beach Volley
+David,Almonte,4,Yes,Team 6,Christmas Beach Volley
+Robert,Baker,4,Yes,Team 8,Christmas Beach Volley
+Ingrid,Guay,3,No,Team 7,Christmas Beach Volley
+James,Burge,1,No,Team 2,Christmas Beach Volley
+Lawanda,Turner,4,No,Team 4,Christmas Beach Volley
+Anita,Allen,4,No,Team 2,Christmas Beach Volley
+Kristen,Robinson,2,Yes,Team 1,Christmas Beach Volley
+Eddie,Garcia,3,Yes,Team 2,Christmas Beach Volley
+Wiley,Lacy,5,No,Team 3,Christmas Beach Volley
+John,Nims,2,Yes,Team 6,Christmas Beach Volley
+Casandra,Ernesto,2,Yes,Team 3,Christmas Beach Volley
+Esther,Owens,5,Yes,Team 3,Christmas Beach Volley
+Jacqueline,Johnson,5,Yes,Team 7,Christmas Beach Volley
+Mary,Hiemstra,4,Yes,Team 7,Christmas Beach Volley
+Dennis,Jackson,4,Yes,Team 8,Christmas Beach Volley
+Jason,Robinson,1,Yes,Team 3,Christmas Beach Volley
+Quinton,Mcknight,2,Yes,Team 2,Christmas Beach Volley
+David,King,,No,Team 4,Christmas Beach Volley
+Francisca,Vargas,2,Yes,Team 6,Christmas Beach Volley
+Francisco,Horan,3,Yes,Team 2,Christmas Beach Volley
+Rachael,Hardwick,3,Yes,Team 1,Christmas Beach Volley
+Dawn,Deal,3,Yes,Team 5,Christmas Beach Volley
+Geraldine,Rollins,4,Yes,Team 3,Christmas Beach Volley
+Richard,Pabon,1,Yes,Team 4,Christmas Beach Volley
+Brenda,Rowton,1,Yes,Team 3,Christmas Beach Volley
+Mary,Fitzgerald,1,No,Team 7,Christmas Beach Volley
+Lucile,Flowe,3,No,Team 1,Christmas Beach Volley
+Doris,Mitchell,4,Yes,Team 3,Christmas Beach Volley
+Nicole,Hair,2,Yes,Team 4,Christmas Beach Volley
+Gina,Flint,1,Yes,Team 3,Christmas Beach Volley
+Vilma,Callahan,4,Yes,Team 8,Christmas Beach Volley
+Cynthia,Smith,1,Yes,Team 3,Christmas Beach Volley
+Vicki,Buckner,2,Yes,Team 8,Christmas Beach Volley
+Carol,Eaves,2,No,Team 3,Christmas Beach Volley
+James,Rodriguez,1,Yes,Team 4,Christmas Beach Volley
+David,Killian,5,Yes,Team 4,Christmas Beach Volley
+Yael,Mclure,3,No,Team 8,Christmas Beach Volley
+Juanita,Straker,2,No,Team 4,Christmas Beach Volley
+Rita,Tice,3,No,Team 2,Christmas Beach Volley
+Lee,Torrence,5,Yes,Team 7,Fall Volley Exhibition
+Octavia,Cook,1,Yes,Team 1,Fall Volley Exhibition
+Harriett,Musson,4,No,Team 6,Fall Volley Exhibition
+Peggy,Phillips,1,Yes,Team 7,Fall Volley Exhibition
+Claudia,Rucker,5,No,Team 4,Fall Volley Exhibition
+Jamie,Clark,4,No,Team 1,Fall Volley Exhibition
+Lewis,Bloomquist,4,No,Team 3,Fall Volley Exhibition
+Francis,Smith,4,No,Team 6,Fall Volley Exhibition
+Charles,Finn,1,No,Team 3,Fall Volley Exhibition
+Annette,Ryan,2,No,Team 7,Fall Volley Exhibition
+Betty,Mcpherson,3,No,Team 4,Fall Volley Exhibition
+Warren,Flores,2,No,Team 8,Fall Volley Exhibition
+James,Richards,1,Yes,Team 2,Fall Volley Exhibition
+Ellis,Mccane,1,Yes,Team 7,Fall Volley Exhibition
+Victor,Daniel,3,No,Team 2,Fall Volley Exhibition
+Harry,Jaynes,4,No,Team 2,Fall Volley Exhibition
+Larry,Roberts,4,No,Team 4,Fall Volley Exhibition
+Dee,Clasby,2,No,Team 8,Fall Volley Exhibition
+Mark,Paine,3,No,Team 2,Fall Volley Exhibition
+David,Fletcher,1,No,Team 2,Fall Volley Exhibition
+Rhea,Carter,4,Yes,Team 4,Fall Volley Exhibition
+Michael,Koral,4,No,Team 6,Fall Volley Exhibition
+Holly,Basbas,2,No,Team 6,Fall Volley Exhibition
+Eric,Stedman,2,Yes,Team 8,Fall Volley Exhibition
+Yesenia,Summers,5,Yes,Team 1,Fall Volley Exhibition
+Alex,Hicks,1,No,Team 1,Fall Volley Exhibition
+Jeffrey,Robitaille,2,No,Team 3,Fall Volley Exhibition
+Eric,Brown,1,No,Team 8,Fall Volley Exhibition
+Donald,Hamilton,4,No,Team 3,Fall Volley Exhibition
+Nina,Canty,5,Yes,Team 4,Fall Volley Exhibition
+Stephen,Rutherford,4,No,Team 1,Fall Volley Exhibition
+Eric,Luther,3,Yes,Team 6,Fall Volley Exhibition
+Sylvia,Menefee,5,No,Team 8,Fall Volley Exhibition
+Jason,Williams,4,Yes,Team 6,Fall Volley Exhibition
+Vicki,Rivett,3,No,Team 1,Fall Volley Exhibition
+Ricky,Nev,5,Yes,Team 5,Fall Volley Exhibition
+Amy,Spence,3,Yes,Team 5,Fall Volley Exhibition
+George,Littlejohn,2,No,Team 3,Fall Volley Exhibition
+Vicki,Hutnak,3,Yes,Team 3,Fall Volley Exhibition
+Tonia,Graham,2,No,Team 3,Fall Volley Exhibition
+Richard,Hope,1,No,Team 5,Fall Volley Exhibition
+Jimmy,Maroney,1,Yes,Team 4,Fall Volley Exhibition
+Yvonne,Brown,4,Yes,Team 7,Fall Volley Exhibition
+Kia,Macdonald,1,Yes,Team 3,Fall Volley Exhibition
+Rosalie,Orem,1,No,Team 6,Fall Volley Exhibition
+Leslie,Martin,3,No,Team 6,Fall Volley Exhibition
+Lindsay,Brune,3,No,Team 7,Fall Volley Exhibition
+Shena,Kramer,5,No,Team 8,Fall Volley Exhibition
+Joseph,Cooks,5,Yes,Team 3,Fall Volley Exhibition
+Larry,Murphy,2,No,Team 7,Fall Volley Exhibition
+Lisa,Gee,4,No,Team 3,Fall Volley Exhibition
+Reginald,Wilson,4,Yes,Team 2,Fall Volley Exhibition
+Anette,Nail,5,Yes,Team 5,Fall Volley Exhibition
+Robert,Straley,2,Yes,Team 4,Fall Volley Exhibition
+Anthony,Peterson,3,Yes,Team 2,Fall Volley Exhibition
+Beatrice,Muhammad,4,Yes,Team 6,Fall Volley Exhibition
+George,Holbert,2,Yes,Team 5,Fall Volley Exhibition
+Robert,Dell,2,Yes,Team 3,Fall Volley Exhibition
+Deborah,Yurek,5,No,Team 4,Fall Volley Exhibition
+Dorthy,Kassab,5,No,Team 6,Fall Volley Exhibition
+Harold,Annis,5,No,Team 1,Fall Volley Exhibition
+Dean,Carter,1,Yes,Team 1,Fall Volley Exhibition
+James,Ambrosino,3,Yes,Team 3,Fall Volley Exhibition
+Brenda,Wilson,5,Yes,Team 8,Fall Volley Exhibition
+Jacqueline,Young,5,No,Team 8,Fall Volley Exhibition
+Maureen,Gardner,5,No,Team 6,Fall Volley Exhibition
+William,West,1,No,Team 8,Fall Volley Exhibition
+Joanne,Brugger,3,No,Team 7,Fall Volley Exhibition
+Bryant,Allen,3,Yes,Team 5,Fall Volley Exhibition
+Emma,Vandy,3,Yes,Team 4,Fall Volley Exhibition
+Jesus,Dellinger,4,Yes,Team 3,Fall Volley Exhibition
+Heidi,Hurd,5,No,Team 8,Fall Volley Exhibition
+Marianna,Jensen,1,Yes,Team 3,Fall Volley Exhibition
+Bradley,Lewis,2,Yes,Team 4,Fall Volley Exhibition
+Danny,Yancey,4,Yes,Team 1,Gold Volley Cup
+Arnold,Kaster,1,No,Team 1,Gold Volley Cup
+Raymond,Jones,4,No,Team 6,Gold Volley Cup
+Paul,Heisserer,,No,Team 4,Gold Volley Cup
+Tracy,Miller,3,No,Team 7,Gold Volley Cup
+Frank,Blunt,2,No,Team 5,Gold Volley Cup
+Ben,White,2,No,Team 4,Gold Volley Cup
+Carmen,Heiser,1,Yes,Team 1,Gold Volley Cup
+Renee,Chapa,3,No,Team 3,Gold Volley Cup
+Carrie,Hernandez,4,No,Team 3,Gold Volley Cup
+Ricky,Bradley,5,No,Team 2,Gold Volley Cup
+Flora,Zieba,1,No,Team 7,Gold Volley Cup
+Judith,Savage,2,No,Team 7,Gold Volley Cup
+Cynthia,Merrifield,5,No,Team 5,Gold Volley Cup
+James,Fuller,1,No,Team 6,Gold Volley Cup
+Nancy,Acosta,4,Yes,Team 8,Gold Volley Cup
+Isaac,Wilcox,3,No,Team 1,Gold Volley Cup
+Edwin,Brown,3,Yes,Team 1,Gold Volley Cup
+Crystal,Borton,5,Yes,Team 2,Gold Volley Cup
+Deborah,Moore,5,Yes,Team 5,Gold Volley Cup
+Rose,Jenkins,2,No,Team 2,Gold Volley Cup
+Mark,Mcchesney,2,No,Team 2,Gold Volley Cup
+James,Jackson,3,No,Team 3,Gold Volley Cup
+Randall,Garcia,1,No,Team 6,Gold Volley Cup
+Hilda,Roberts,4,Yes,Team 4,Gold Volley Cup
+Geraldine,Macko,5,No,Team 2,Gold Volley Cup
+Chris,Crouse,2,No,Team 2,Gold Volley Cup
+Ronald,Smith,1,No,Team 5,Gold Volley Cup
+Andy,Bartolet,5,No,Team 3,Gold Volley Cup
+Bill,Hommell,5,Yes,Team 6,Gold Volley Cup
+Andrew,Gonez,2,No,Team 3,Gold Volley Cup
+John,Myers,5,No,Team 4,Gold Volley Cup
+Phyllis,Omura,1,Yes,Team 2,Gold Volley Cup
+Ronald,Rowland,5,No,Team 7,Gold Volley Cup
+Lester,Bates,4,No,Team 5,Gold Volley Cup
+Joyce,Pestana,2,Yes,Team 1,Gold Volley Cup
+Thomas,Torres,2,Yes,Team 1,Gold Volley Cup
+William,Ohare,4,Yes,Team 1,Gold Volley Cup
+Brittany,Combs,1,No,Team 4,Gold Volley Cup
+Jay,Jones,4,Yes,Team 2,Gold Volley Cup
+Lisa,Romine,2,Yes,Team 2,Gold Volley Cup
+Joyce,Stewart,1,No,Team 5,Gold Volley Cup
+Roger,Benally,5,Yes,Team 5,Gold Volley Cup
+Alton,Buehler,5,Yes,Team 4,Gold Volley Cup
+Robert,Henderson,4,Yes,Team 6,Gold Volley Cup
+Maria,Hohl,3,Yes,Team 8,Gold Volley Cup
+Margaret,Beavers,1,No,Team 8,Gold Volley Cup
+Dwight,Casagrande,2,Yes,Team 7,Gold Volley Cup
+Mary,Tovar,2,Yes,Team 3,Gold Volley Cup
+Ronald,Mushtaq,2,Yes,Team 1,Gold Volley Cup
+Don,Hernandez,4,Yes,Team 2,Gold Volley Cup
+Tony,Naves,5,No,Team 3,Gold Volley Cup
+Adriana,Rodriguez,4,Yes,Team 4,Gold Volley Cup
+Benjamin,Jagger,2,Yes,Team 5,Gold Volley Cup
+John,Cosgrove,,Yes,Team 6,Gold Volley Cup
+Ethel,Rattan,2,Yes,Team 6,Gold Volley Cup
+Erica,Shane,1,Yes,Team 7,Gold Volley Cup
+Jimmy,Allen,1,Yes,Team 6,Gold Volley Cup
+Kathryn,Johnson,2,No,Team 2,Gold Volley Cup
+Thomas,Parizo,4,Yes,Team 5,Gold Volley Cup
+Joseph,Vance,2,Yes,Team 8,Gold Volley Cup
+Lucinda,Parent,3,Yes,Team 5,Gold Volley Cup
+Thomas,Swartz,5,Yes,Team 1,Gold Volley Cup
+Daniel,Ferris,2,Yes,Team 1,Gold Volley Cup
+Tammie,Nelson,2,No,Team 7,Gold Volley Cup
+James,Acosta,4,Yes,Team 2,Gold Volley Cup
+Cynthia,Brookins,4,Yes,Team 1,Gold Volley Cup
+Warren,Cundiff,1,No,Team 7,Gold Volley Cup
+Larry,Pellegrino,3,Yes,Team 1,Gold Volley Cup
+Michael,Similien,5,Yes,Team 2,Gold Volley Cup
+Rick,Przewozman,3,Yes,Team 3,Gold Volley Cup
+Benjamin,Lozoya,2,No,Team 4,Gold Volley Cup
+Lida,Ore,4,Yes,Team 6,Gold Volley Cup
+Jessica,Player,5,Yes,Team 7,Gold Volley Cup
+Edward,Sadowski,2,No,Team 7,Summer City Cup
+Kevin,Kohl,3,Yes,Team 4,Summer City Cup
+Iris,Cardenas,4,Yes,Team 5,Summer City Cup
+Matthew,Gonzales,3,No,Team 1,Summer City Cup
+Lori,Pitts,5,Yes,Team 3,Summer City Cup
+Eric,Lynch,5,No,Team 1,Summer City Cup
+Simon,Harvey,5,Yes,Team 8,Summer City Cup
+Barbara,Hawley,1,Yes,Team 4,Summer City Cup
+Philip,Brown,1,No,Team 1,Summer City Cup
+Mark,Mattson,4,No,Team 2,Summer City Cup
+Doris,Scott,1,No,Team 3,Summer City Cup
+Charles,Mcmasters,5,Yes,Team 4,Summer City Cup
+William,Webb,4,Yes,Team 8,Summer City Cup
+Guillermo,Ho,2,No,Team 7,Summer City Cup
+Jack,Schwartz,1,Yes,Team 2,Summer City Cup
+Bessie,Gerhardt,3,Yes,Team 8,Summer City Cup
+Demetrius,Wyman,3,No,Team 7,Summer City Cup
+Paulette,Freeman,4,No,Team 7,Summer City Cup
+Tyrone,Cook,4,Yes,Team 3,Summer City Cup
+Arthur,North,4,Yes,Team 8,Summer City Cup
+Veronica,Taylor,4,Yes,Team 4,Summer City Cup
+Philip,Randolph,1,Yes,Team 2,Summer City Cup
+Joe,Rosado,4,Yes,Team 6,Summer City Cup
+Paul,Lim,5,Yes,Team 3,Summer City Cup
+Margie,Reed,5,Yes,Team 8,Summer City Cup
+Gary,Flecha,3,Yes,Team 2,Summer City Cup
+Eugene,Moore,5,Yes,Team 6,Summer City Cup
+Juan,Cook,2,No,Team 7,Summer City Cup
+Paula,Connelly,4,No,Team 1,Summer City Cup
+Marco,Freeman,5,No,Team 7,Summer City Cup
+Lillian,Reed,3,Yes,Team 8,Summer City Cup
+Keith,Groves,5,No,Team 1,Summer City Cup
+Jonathan,Alston,4,No,Team 8,Summer City Cup
+James,Harris,1,No,Team 3,Summer City Cup
+Candida,Bush,3,No,Team 2,Summer City Cup
+Geraldine,Laxen,1,No,Team 1,Summer City Cup
+Margaret,Cobb,4,Yes,Team 3,Summer City Cup
+Thomas,Bolduc,5,Yes,Team 8,Summer City Cup
+David,Roberts,1,Yes,Team 4,Summer City Cup
+Gary,Tracey,5,Yes,Team 8,Summer City Cup
+John,Adcock,4,Yes,Team 1,Summer City Cup
+Augusta,Markrof,4,Yes,Team 4,Summer City Cup
+Carl,Herman,2,Yes,Team 7,Summer City Cup
+Jerry,Lipphardt,4,Yes,Team 8,Summer City Cup
+Charles,Dileo,1,Yes,Team 8,Summer City Cup
+Stephen,Kuttner,2,No,Team 4,Summer City Cup
+Wendi,Miller,5,No,Team 1,Summer City Cup
+Shani,Jones,,Yes,Team 8,Summer City Cup
+Willie,Chavez,1,No,Team 3,Summer City Cup
+Harold,Brock,5,Yes,Team 7,Summer City Cup
+Linda,Orser,3,No,Team 6,Summer City Cup
+Fernando,Flagge,3,No,Team 5,Summer City Cup
+Theresa,Lee,5,Yes,Team 3,Summer City Cup
+Jerry,Tan,5,Yes,Team 6,Summer City Cup
+Sabrina,Macgregor,3,No,Team 8,Summer City Cup
+Jennie,Patton,4,Yes,Team 7,Summer City Cup
+Henry,Greenblatt,4,Yes,Team 2,Summer City Cup
+Allen,Duvall,4,Yes,Team 6,Summer City Cup
+Michael,Coleman,2,Yes,Team 4,Summer City Cup
+Henry,Hedges,4,No,Team 7,Summer City Cup
+Melissa,Pruitt,3,No,Team 3,Summer City Cup
+Jordan,Carter,2,No,Team 1,Summer City Cup
+Shane,Simmions,1,Yes,Team 2,Summer City Cup
+Jesus,Brown,4,No,Team 8,Summer City Cup
+James,Bailey,5,No,Team 8,Summer City Cup
+Linda,Nix,3,Yes,Team 4,Summer City Cup
+Kyle,Eastman,3,No,Team 7,Summer City Cup
+Nelson,Rudolph,5,No,Team 1,Summer Party Tournament
+Virginia,Villalobos,5,No,Team 2,Summer Party Tournament
+Donald,Glover,3,Yes,Team 3,Summer Party Tournament
+Allison,Huling,5,Yes,Team 8,Summer Party Tournament
+Zachary,Bingham,3,No,Team 8,Summer Party Tournament
+Mary,Lee,3,No,Team 4,Summer Party Tournament
+Carmen,Norwood,2,No,Team 3,Summer Party Tournament
+Laura,Wagster,4,No,Team 2,Summer Party Tournament
+Jennifer,Deleon,3,No,Team 8,Summer Party Tournament
+Larry,Ford,2,Yes,Team 7,Summer Party Tournament
+Billy,Jernigan,2,Yes,Team 3,Summer Party Tournament
+Christopher,Cheney,3,No,Team 1,Summer Party Tournament
+Sidney,Haggard,2,No,Team 7,Summer Party Tournament
+Michale,Bradstreet,3,Yes,Team 3,Summer Party Tournament
+Thomas,Holder,2,Yes,Team 6,Summer Party Tournament
+Cortney,Perez,4,No,Team 3,Summer Party Tournament
+Melinda,Vegetabile,1,No,Team 1,Summer Party Tournament
+Linda,Moris,4,Yes,Team 1,Summer Party Tournament
+Susan,Mefford,3,Yes,Team 8,Summer Party Tournament
+Michelle,Shearer,3,Yes,Team 8,Summer Party Tournament
+Alice,Dobies,3,Yes,Team 4,Summer Party Tournament
+Wesley,Wilcox,1,Yes,Team 3,Summer Party Tournament
+Gene,Scott,1,Yes,Team 3,Summer Party Tournament
+Joseph,Dube,2,Yes,Team 8,Summer Party Tournament
+Connie,Villarreal,5,No,Team 8,Summer Party Tournament
+Stanley,Higa,2,No,Team 8,Summer Party Tournament
+Denise,Ogawa,3,No,Team 2,Summer Party Tournament
+Joseph,Hansen,4,No,Team 7,Summer Party Tournament
+Robert,Benner,,No,Team 8,Summer Party Tournament
+Charles,Caron,1,Yes,Team 5,Summer Party Tournament
+Elizabeth,Robbinson,3,No,Team 1,Summer Party Tournament
+Dale,Lescarbeau,2,No,Team 4,Summer Party Tournament
+Christi,Burke,4,No,Team 1,Summer Party Tournament
+Gregory,Reames,1,Yes,Team 2,Summer Party Tournament
+William,Hernandez,2,No,Team 6,Summer Party Tournament
+Dave,Willey,4,Yes,Team 7,Summer Party Tournament
+Destiny,Marceau,2,Yes,Team 8,Summer Party Tournament
+Robert,Wetenkamp,3,Yes,Team 3,Summer Party Tournament
+Mavis,Long,5,Yes,Team 3,Summer Party Tournament
+Eric,Barfield,4,No,Team 2,Summer Party Tournament
+Jerry,Sentell,2,No,Team 1,Summer Party Tournament
+Rufus,Williams,2,Yes,Team 2,Summer Party Tournament
+Adrian,Pearson,4,Yes,Team 7,Summer Party Tournament
+Gregory,Foster,4,Yes,Team 5,Summer Party Tournament
+Allan,Iliff,1,Yes,Team 3,Summer Party Tournament
+Alicia,Fey,4,No,Team 1,Summer Party Tournament
+Gerald,Vigil,3,No,Team 7,Summer Party Tournament
+Crystal,Murphy,4,Yes,Team 3,Summer Party Tournament
+Kelly,Mabry,3,Yes,Team 3,Summer Party Tournament
+Constance,Gisin,1,Yes,Team 3,Summer Party Tournament
+Alan,Gibson,5,Yes,Team 4,Summer Party Tournament
+Christina,Holland,4,No,Team 1,Summer Party Tournament
+April,Phifer,4,No,Team 5,Summer Party Tournament
+Elaine,Pelletier,4,Yes,Team 3,Summer Party Tournament
+Paul,Lent,3,Yes,Team 1,Summer Party Tournament
+Glenna,Shrader,5,Yes,Team 2,Summer Party Tournament
+Delores,Muller,2,No,Team 7,Summer Party Tournament
+Mitchell,Harpole,1,Yes,Team 7,Summer Party Tournament
+Jessica,Whelan,2,No,Team 7,Summer Party Tournament
+Juan,Callahan,2,No,Team 1,Summer Party Tournament
+Joseph,Robinson,5,No,Team 5,Volley Fest
+Tracey,Allen,4,No,Team 8,Volley Fest
+Belia,Strawser,2,Yes,Team 7,Volley Fest
+Eric,Moore,4,Yes,Team 2,Volley Fest
+Dennis,Keener,1,No,Team 6,Volley Fest
+Ray,Kearns,1,No,Team 8,Volley Fest
+Glenda,Starke,2,Yes,Team 3,Volley Fest
+Todd,Mcdaniel,5,Yes,Team 3,Volley Fest
+Jonnie,Hutching,3,Yes,Team 1,Volley Fest
+Ruby,Lowe,5,No,Team 5,Volley Fest
+Allan,Dabadie,5,No,Team 6,Volley Fest
+Vincent,Robertson,5,Yes,Team 1,Volley Fest
+Bonnie,Carter,4,Yes,Team 6,Volley Fest
+Debbie,Bernice,3,Yes,Team 7,Volley Fest
+James,Augustine,3,No,Team 4,Volley Fest
+Pansy,Rowe,5,No,Team 7,Volley Fest
+Gordon,Levan,2,No,Team 3,Volley Fest
+Louis,Johnson,1,No,Team 6,Volley Fest
+Christine,Reimers,3,Yes,Team 3,Volley Fest
+Carol,Byrd,2,No,Team 2,Volley Fest
+Stephen,Reyna,3,Yes,Team 8,Volley Fest
+Juan,Jenkins,4,Yes,Team 3,Volley Fest
+Cameron,Moore,3,Yes,Team 1,Volley Fest
+James,Mitchell,2,Yes,Team 2,Volley Fest
+Gregory,Campbell,1,Yes,Team 2,Volley Fest
+Albert,Evans,3,No,Team 2,Volley Fest
+David,Lara,2,No,Team 1,Volley Fest
+Richard,Owens,4,No,Team 1,Volley Fest
+Troy,Richards,3,Yes,Team 6,Volley Fest
+James,Parker,5,Yes,Team 8,Volley Fest
+Rosetta,Gain,5,No,Team 1,Volley Fest
+John,Roberts,2,Yes,Team 1,Volley Fest
+Susan,Kirkland,2,No,Team 8,Volley Fest
+Harold,Schreiber,5,No,Team 8,Volley Fest
+Henry,Wilcox,4,No,Team 8,Volley Fest
+James,Hower,5,Yes,Team 7,Volley Fest
+Julius,Crumb,2,Yes,Team 6,Volley Fest
+Amy,Negron,1,Yes,Team 2,Volley Fest
+Robert,Black,2,No,Team 5,Volley Fest
+Kimberly,Lister,5,Yes,Team 1,Volley Fest
+Michael,Rowan,4,No,Team 2,Volley Fest
+Robert,Scott,4,No,Team 3,Volley Fest
+Marissa,Kaufman,3,Yes,Team 8,Volley Fest
+Ronald,Pritchard,2,Yes,Team 7,Volley Fest
+James,Nelson,4,Yes,Team 5,Volley Fest
+Linda,Johnson,3,Yes,Team 1,Volley Fest
+Jeffrey,Hope,2,No,Team 1,Volley Fest
+Nona,Delgado,1,Yes,Team 1,Volley Fest
+Tina,Adler,2,No,Team 4,Volley Fest
+Jimmy,Eagan,4,Yes,Team 4,Volley Fest
+Jeffrey,Martin,4,Yes,Team 3,Volley Fest
+Alice,Holm,4,Yes,Team 6,Volley Fest
+Betty,Burgener,1,Yes,Team 8,Volley Fest
+Willie,Smith,4,Yes,Team 4,Volley Fest
+Isaac,Porter,4,No,Team 8,Volley Fest
+Francis,Justen,2,No,Team 4,Volley Fest

@@ -1,5 +1,5 @@
-from sports import Sports
-from records import Records
+from sports import Sports  # import Sport class
+from records import Records  # import Records class
 
 
 def main():
