@@ -26,7 +26,7 @@ class Sports:
                              'Enter "Y" --> Yes\n'
                              'Enter "N" --> No\n'
                              '------------------\n'
-                             '--> ')
+                             '----> ')
             character = question.lower()
             if character in ['y', 'n']:
                 response_bool = {'y': True, 'n': False}

@@ -91,7 +91,7 @@ class Records:
                 for key, value in self.dict_sport.items():
                     print(f'Enter number "{key}" -> {value}')
                 print('--------------------------------')
-                sport = input(f'--> ')
+                sport = input(f'----> ')
                 # extracting the value in self.dict_sport using sport variable like key. if the answer
                 # in sport variable is not in self.dict_sport will return "incorrect"
                 response = self.dict_sport.get(int(sport), 'incorrect')
