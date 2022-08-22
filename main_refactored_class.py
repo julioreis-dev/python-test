@@ -3,10 +3,9 @@ class Report:
         self.tournament_address = tournament_address
         self.player_address = player_address
         self.dict_cost = {1: 1.5, 2: 3, 3: 5, 4: 7}
-        self.new_lines_people = None
-        self.tournament_lines = None
+        self.new_lines_people, self.tournament_lines = None, None
 
-    def open_prepare_file(self):
+    def open_prepare_file(self) -> None:
         """
         The method is responsible to prepare the files and put in self.new_lines_people or self.tournament_lines
         :return:None
@@ -30,7 +29,7 @@ class Report:
             self.tournament_lines = list_final[0]
             self.new_lines_people = list_final[1]
 
-    def calc_price_tournament(self, person_quote, tournament):
+    def calc_price_tournament(self, person_quote: float, tournament:str) -> int:
         """
         The method calculate the price by tournament
         :param person_quote: float
@@ -51,7 +50,7 @@ class Report:
         else:
             return total_quote
 
-    def main(self):
+    def main(self) -> dict:
         """
         The method main responsible to run the script
         :return: dict
