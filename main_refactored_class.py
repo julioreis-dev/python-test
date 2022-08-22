@@ -29,7 +29,7 @@ class Report:
             self.tournament_lines = list_final[0]
             self.new_lines_people = list_final[1]
 
-    def calc_price_tournament(self, person_quote: float, tournament:str) -> int:
+    def calc_price_tournament(self, person_quote: float, tournament: str) -> int:
         """
         The method calculate the price by tournament
         :param person_quote: float
