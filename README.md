@@ -10,4 +10,4 @@
 
 ## Entity Relational Diagram:
 ### Follow the ERD developed in this project.
-![test_alten2(1)](https://user-images.githubusercontent.com/67196397/186276359-45a922f8-c848-4f76-a8b4-58444d72b45d.png)
+![test_alten2](https://user-images.githubusercontent.com/67196397/186276478-4085db3c-5d10-4759-b48f-5902d37f65b3.png)
