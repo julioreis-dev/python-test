@@ -1,5 +1,5 @@
-from sports import Sports  # import Sport class
-from records import Records  # import Records class
+from sports import Sports  # importing Sport class
+from records import Records  # importing Records class
 
 
 def main():
@@ -14,6 +14,7 @@ def main():
         instance_records = Records(dict_all_sports)
         # call the method create_content()
         instance_records.create_content()
+    # error handling
     except Exception as err:
         raise Exception(f'Aplication Error: {err}')
 

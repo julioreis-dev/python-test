@@ -11,21 +11,25 @@ class Report:
         :return:None
         """
         try:
+            # dict_columns with column name's of tournament.csv and players.csv
             dict_columns = {0: ['Name', 'Group Stage Matches', 'Elimination Rounds', 'Sport'],
                             1: ['First name', 'Last name', 'Skill level', 'Paid', 'Team', 'Tournament']}
+            # list responsible to receive all content of tournament.csv and players.csv
             list_final = []
             for key, address in enumerate([self.tournament_address, self.player_address]):
                 with open(address) as fht:
                     # Reading all file lines in tournaments.csv
                     lines = [row.strip() for row in fht.readlines()][1:]
-                    # creating a list with dicts where the keys are elements in list_file1 or list_file2
-                    list_data = [{k: v for k, v in zip(dict_columns[key], line.split(','))}
-                                 for line in lines]
+                    # creating a list with dicts
+                    list_data = [{k: v for k, v in zip(dict_columns[key], line.split(','))} for line in lines]
+                    # added all contents stored in list_data in list_final
                     list_final.append(list_data)
                     fht.flush()
+        # error handling
         except Exception as err:
             raise Exception(f'Method error -> ({self.open_prepare_file.__name__}), Error -> {err}')
         else:
+            # assigning to each element of list_final to self.tournament_lines and self.new_lines_people
             self.tournament_lines = list_final[0]
             self.new_lines_people = list_final[1]
 
@@ -37,28 +41,34 @@ class Report:
         :return: int
         """
         try:
+            # filtering by name column and tournament
             tournament_line = None
             for line in self.tournament_lines:
                 if line['Name'] == tournament:
                     tournament_line = line
 
+            # calculate the value to quote by user
             total_quote = 0
             total_quote += person_quote * int(tournament_line['Group Stage Matches'])
             total_quote += person_quote * (int(tournament_line['Elimination Rounds']) * 2)
+        # error handling
         except Exception as err:
             raise Exception(f'Method error -> ({self.calc_price_tournament.__name__}), Error -> {err}')
         else:
             return total_quote
 
-    def main(self) -> dict:
+    def final_report(self) -> dict:
         """
-        The method main responsible to run the script
+        The method is responsible to elaborate the final resume
         :return: dict
         """
         try:
+            # printing the list with dict each register
             print(self.new_lines_people)
-            calc_price_game = lambda skill_level: self.dict_cost.get('' if skill_level == '' else int(skill_level), 10)
+            # lambda function to return the cost of each level
+            calc_price_game = lambda skill: self.dict_cost.get(int(skill) if skill.isdigit() else '', 10)
 
+            # creating a dict tournaments to receive all cost by team to each tournament
             tournaments = {}
             for dict_content in self.new_lines_people:
                 if not dict_content['Tournament'] in tournaments.keys():
@@ -70,16 +80,21 @@ class Report:
                 tournament_quote = self.calc_price_tournament(person_quote, dict_content['Tournament'])
                 tournaments[dict_content['Tournament']][dict_content['Team']] = \
                     tournaments[dict_content['Tournament']][dict_content['Team']] + tournament_quote
+        # error handling
         except Exception as err:
-            raise Exception(f'Method error -> ({self.main.__name__}), Error -> {err}')
+            raise Exception(f'Method error -> ({self.final_report.__name__}), Error -> {err}')
         else:
             return tournaments
 
 
 if __name__ == '__main__':
+    # creating instance of Report
     report = Report('Assignment/data/tournaments.csv', 'Assignment/data/players.csv')
+    # call the method open_prepare_file()
     report.open_prepare_file()
-    all_tournaments = report.main()
+    # receving report of tournaments
+    all_tournaments = report.final_report()
+    # printing the results
     for tournament, teams in all_tournaments.items():
         for team, quote in teams.items():
             print(f"=== {tournament} === {team} => {quote} ===")

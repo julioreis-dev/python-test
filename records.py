@@ -21,6 +21,7 @@ class Records:
             self.list_elimination.append(self.verify_answer(2, elimination))
             # question to column 4
             self.list_sport.append(self.choose_modality())
+        # error handling
         except Exception as err:
             raise Exception(f'Method -> ({self.create_records.__name__}), Error -> {err}')
 
@@ -45,6 +46,7 @@ class Records:
                 # procedure to help the user. If the use choose a option different of "y" or "n"
                 print('\nAnswer incorrect, Try again!!!')
                 return self.confirmation_records()
+        # error handling
         except Exception as err:
             raise Exception(f'Method -> ({self.confirmation_records.__name__}), Error -> {err}')
 
@@ -59,7 +61,7 @@ class Records:
                 if number in [0, 3]:
                     return number
                 else:
-                    # if the answer is not in [0, 3], this part restart all procedure
+                    # if the answer is not in [0, 3], this part will restart all procedure
                     response = input('Answer incorrect, Try again!!!\nEnter with number group, e.g.(0 or 3):')
                     return self.verify_answer(1, response)
             else:
@@ -72,6 +74,7 @@ class Records:
                     response = input(
                         'Answer incorrect, Try again!!!\nEnter with the list_elimination, e.g.(2, 3 or 4):')
                     return self.verify_answer(2, response)
+        # error handling
         except Exception as err:
             raise Exception(f'Function -> ({self.verify_answer.__name__}), Error -> {err}')
 
@@ -102,6 +105,7 @@ class Records:
                 else:
                     # if the answer stored in sport variable is in self.dict_sport the flag will receive False
                     flag = False
+        # error handling
         except Exception as err:
             raise Exception(f'Method -> ({self.choose_modality.__name__}), Error -> {err}')
         else:
@@ -117,15 +121,19 @@ class Records:
                 self.create_records()
                 # stored in flag variable the return of self.confirmation_records()
                 flag = self.confirmation_records()
-            self.create_file(name=self.list_name, group=self.list_group, elimination=self.list_elimination,
+            # calling the method self.create_file()
+            self.create_file(name=self.list_name,
+                             group=self.list_group,
+                             elimination=self.list_elimination,
                              sport=self.list_sport)
+        # error handling
         except Exception as err:
             raise Exception(f'Method -> ({self.create_content.__name__}), Error -> {err}')
 
     def create_file(self, **kwargs: object) -> None:
         """Function to create the final file .csv"""
         try:
-            # creating data variable to populate the final dataframe
+            # creating data variable to populate the dataframe
             data = {
                 'Name': kwargs.get('name'),
                 'Group Stage Matches': kwargs.get('group'),
@@ -136,5 +144,6 @@ class Records:
             tournament_df = pd.DataFrame(data)
             # converting the dataframe to tournament_file.csv without index
             tournament_df.to_csv('tournament_file.csv', index=False)
+        # error handling
         except Exception as err:
             raise Exception(f'Method -> ({self.create_file.__name__}), Error -> {err}')
