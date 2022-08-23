@@ -1,6 +1,4 @@
 # python-test
-This repo is designed to store all files developed.
-
 ### The solution was created to address all the requirements given to in the test.
 # Suggestion to create a new solution 
 1. Create a web application;
