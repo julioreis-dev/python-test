@@ -5,7 +5,7 @@
 2. Changing of password;
 3. Authentication;
 4. Extract .csv report using filter in the system;
-5. Notification to a user after register in the system;
+5. Notification to the user after register in the system;
 6. Modal layer as below: (Database containing tables for the entities of the process)
 
 ## Entity Relational Diagram:
