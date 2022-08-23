@@ -2,11 +2,7 @@
 This repo is designed to store all files developed.
 
 ### The solution was created to address all the requirements given to in the test.
-
-# Suggestion to change the current solution
-
-### Create a web application 
-## Step 1:
+# Suggestion to create a new solution 
 1. Create a web application;
 2. Create the modal layer as below: (Database containing tables for the entities of the process) 
 
