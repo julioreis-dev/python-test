@@ -24,8 +24,9 @@ def calc_price_tournament(person_quote, tournament):
     return total_quote
 
 def calc_price_game(l):
-    # solution to point 1
-    skill_level = '' if l['Skill level'] == '' else int(l['Skill level'])
+    # solution to point 1 (created two options) both are correct
+    # skill_level = '' if l['Skill level'] == '' else int(l['Skill level'])  # option 1
+    skill_level = int(l['Skill level']) if l['Skill level'].isdigit() else ''  # option 2
     if skill_level == 1:
         return 1.5
     elif skill_level == 2:

@@ -33,19 +33,20 @@ class Report:
             self.tournament_lines = list_final[0]
             self.new_lines_people = list_final[1]
 
-    def calc_price_tournament(self, person_quote: float, tournament: str) -> int:
+    def calc_price_tournament(self, person_quote: float, name_tournament: str) -> int:
         """
         The method calculate the price by tournament
         :param person_quote: float
-        :param tournament: str
+        :param name_tournament: str
         :return: int
         """
         try:
-            # filtering by name column and tournament
+            # filtering by name column and name_tournament
             tournament_line = None
             for line in self.tournament_lines:
-                if line['Name'] == tournament:
+                if line['Name'] == name_tournament:
                     tournament_line = line
+                    break
 
             # calculate the value to quote by user
             total_quote = 0
