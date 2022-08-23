@@ -1,11 +1,12 @@
 # python-test
 ### The solution was created to address all the requirements given to in the test.
-# Suggestion to create a new solution 
-1. Create a web application;
-2. Log in and Log out;
-3. Changing of password;
-4. Authentication;
-5. Modal layer as below: (Database containing tables for the entities of the process)
+# Suggestion to create a new solution as a web application
+1. Log in and Log out;
+2. Changing of password;
+3. Authentication;
+4. Extract .csv report using filter in the system;
+5. Notification to a user after register in the system;
+6. Modal layer as below: (Database containing tables for the entities of the process)
 
 ## Entity Relational Diagram:
 ### Follow the ERD developed in this project.
