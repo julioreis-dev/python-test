@@ -3,6 +3,7 @@ from records import Records  # importing Records class
 
 
 def main():
+    """Dear user, run this module to have a interactive way to create tournament_file.csv"""
     try:
         # creating Sport instance
         instance_sports = Sports()

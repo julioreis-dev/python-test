@@ -40,7 +40,7 @@ def test_final_report(instance_class_report):
     assert instance_class_report.final_report() == {'Apple Tournament': {'Team 5': 12}}
 
 
-def test_raise_open_prepare_file_method(instance_class_report):
+def test_raise_calc_price_game(instance_class_report):
     with pytest.raises(Exception) as err:
         instance_class_report.open_prepare_file()
         instance_class_report.calc_price_game()

@@ -16,13 +16,13 @@ def calc_price_tournament(data: object, person_quote: float, tournament: str) ->
 
 
 def main():
-    df = pd.read_csv('Assignment/data/players.csv')
+    df = pd.read_csv('../Assignment/data/players.csv')
     df.loc[df['Skill level'].isnull(), 'Skill level'] = 0
     new_lines_people = df.to_dict('records')
 
     print(new_lines_people)
 
-    df2 = pd.read_csv('Assignment/data/tournaments.csv')
+    df2 = pd.read_csv('../Assignment/data/tournaments.csv')
     df2.rename(columns={'Elimination Matches': 'Elimination Rounds'}, inplace=True)
 
     dict_cost = {1: 1.5, 2: 3, 3: 5, 4: 7}
