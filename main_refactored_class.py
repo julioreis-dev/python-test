@@ -3,6 +3,8 @@ class Report:
         self.tournament_address = tournament_address
         self.player_address = player_address
         self.dict_cost = {1: 1.5, 2: 3, 3: 5, 4: 7}
+        # lambda function to return the cost of each level
+        self.calc_price_game = lambda skill: self.dict_cost.get(int(skill) if skill.isdigit() else '', 10)
         self.new_lines_people, self.tournament_lines = None, None
 
     def open_prepare_file(self) -> None:
@@ -66,8 +68,6 @@ class Report:
         try:
             # printing the list with dict each register
             print(self.new_lines_people)
-            # lambda function to return the cost of each level
-            calc_price_game = lambda skill: self.dict_cost.get(int(skill) if skill.isdigit() else '', 10)
 
             # creating a dict tournaments to receive all cost by team to each tournament
             tournaments = {}
@@ -77,7 +77,7 @@ class Report:
                 if not dict_content['Team'] in tournaments[dict_content['Tournament']].keys():
                     tournaments[dict_content['Tournament']][dict_content['Team']] = 0
 
-                person_quote = calc_price_game(dict_content['Skill level'])
+                person_quote = self.calc_price_game(dict_content['Skill level'])
                 tournament_quote = self.calc_price_tournament(person_quote, dict_content['Tournament'])
                 tournaments[dict_content['Tournament']][dict_content['Team']] = \
                     tournaments[dict_content['Tournament']][dict_content['Team']] + tournament_quote
