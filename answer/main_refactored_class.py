@@ -85,7 +85,7 @@ class Report:
 
 if __name__ == '__main__':
     # creating instance of Report
-    report = Report('Assignment/data/tournaments.csv', 'Assignment/data/players.csv')
+    report = Report('../Assignment/data/tournaments.csv', '../Assignment/data/players.csv')
     # call the method open_prepare_file()
     report.open_prepare_file()
     # receving report of tournaments

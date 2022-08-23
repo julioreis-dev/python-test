@@ -1,6 +1,6 @@
 def calc_price_tournament(person_quote, tournament):
     
-    with open('Assignment/data/tournaments.csv') as fht:
+    with open('../Assignment/data/tournaments.csv') as fht:
         
         lines = [l.strip() for l in fht.readlines()][1:]
         tournaments = []
@@ -38,7 +38,7 @@ def calc_price_game(l):
     else:
         return 10
 
-with open('Assignment/data/players.csv') as fhp:
+with open('../Assignment/data/players.csv') as fhp:
     # Reading all file lines
     lines = [l.strip() for l in fhp.readlines()][1:]
 

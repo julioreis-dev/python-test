@@ -55,6 +55,6 @@ def main(tournaments_list: list, new_lines_people: list) -> None:
 
 
 if __name__ == '__main__':
-    group_games = open_prepare_file(1, '../Assignment/data/tournaments.csv')
-    lines_people = open_prepare_file(2, '../Assignment/data/players.csv')
+    group_games = open_prepare_file(1, '../../Assignment/data/tournaments.csv')
+    lines_people = open_prepare_file(2, '../../Assignment/data/players.csv')
     main(group_games, lines_people)
