@@ -4,9 +4,10 @@
 ### Resolution Task 1:
 Inside the folder "answer" there are the file main_1.py and main_refactored_class.py, both
 files are the answer however inside the folder "extra_solutions" there are two extra answer where was used other techniques.
-### Resolution Task 2b: Inside the folder "new_process" access the file task_2b and run the code.
-### Resolution Task 3:
+### Resolution Task 2b:
+Inside the folder "new_process" access the file task_2b and run the code.
 
+### Resolution Task 3:
 # Suggestion: Create a new solution as a web application
 ### Functionality like proposal:
 1. Log in and Log out;
