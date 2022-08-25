@@ -2,8 +2,8 @@ import pytest
 
 
 def test_open_prepare_file_method_call(instance_class_report):
-    assert instance_class_report.tournament_address == 'tests/file_test/tournament_file.csv'
-    assert instance_class_report.player_address == 'tests/file_test/players.csv'
+    assert instance_class_report.tournament_address == 'tests/file_test/tournament_test.csv'
+    assert instance_class_report.player_address == 'tests/file_test/players_test.csv'
     assert instance_class_report.dict_cost == {1: 1.5, 2: 3, 3: 5, 4: 7}
     assert instance_class_report.tournament_lines is None
     assert instance_class_report.new_lines_people is None
@@ -23,7 +23,7 @@ def test_open_prepare_file_method(instance_class_report):
                                                        'Tournament': 'Apple Tournament'}]
 
 
-@pytest.mark.parametrize('_input, expected', [('1', 1.5), ('2', 3), ('3', 5), ('4', 7), ('5', 10), ('', 10)])
+@pytest.mark.parametrize('_input, expected', [('1', 1.5), ('2', 3), ('3', 5), ('4', 7), ('5', 10), ('', 10), ('t', 10)])
 def test_calc_price_game_method(instance_class_report, _input, expected):
     instance_class_report.open_prepare_file()
     assert instance_class_report.calc_price_game(_input) == expected
@@ -47,7 +47,7 @@ def test_raise_calc_price_game(instance_class_report):
     assert "<lambda>() missing 1 required positional argument: 'skill'" == str(err.value)
 
 
-@pytest.mark.parametrize('_input', ['', '2'])
+@pytest.mark.parametrize('_input', ['', '1.5', '2', 't'])
 def test_raise_calc_price_tournament_method(instance_class_report, _input):
     with pytest.raises(Exception) as err:
         instance_class_report.open_prepare_file()

@@ -4,4 +4,4 @@ import pytest
 
 @pytest.fixture(scope='function')
 def instance_class_report():
-    return Report('tests/file_test/tournament_file.csv', 'tests/file_test/players.csv')
+    return Report('tests/file_test/tournament_test.csv', 'tests/file_test/players_test.csv')
