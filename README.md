@@ -1,5 +1,5 @@
 # python-test
-### solution proposal
+### Proposal
 # Suggestion: Create a new solution as a web application
 ### Functionality like proposal:
 1. Log in and Log out;
@@ -14,5 +14,5 @@
 ### Follow the ERD developed in this project (Database containing tables for the entities of the process).
 ![test_alten2](https://user-images.githubusercontent.com/67196397/186276478-4085db3c-5d10-4759-b48f-5902d37f65b3.png)
 
-## Proposal of design to cloud solution:
+## Project of design to cloud solution:
 ![design drawio(1)](https://user-images.githubusercontent.com/67196397/186734917-09c8bc4d-5912-44b0-bf3e-2b01c0e01329.png)
