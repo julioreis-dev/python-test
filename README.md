@@ -1,5 +1,5 @@
 # python-test
-### Proposal
+### The proposal was created to address all the requirements given to in the test.
 # Suggestion: Create a new solution as a web application
 ### Functionality like proposal:
 1. Log in and Log out;
