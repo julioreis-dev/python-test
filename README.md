@@ -1,12 +1,15 @@
 # python-test
-### The solution was created to address all the requirements given to in the test.
-# Suggestion to create a new solution as a web application
+### solution proposal
+# Suggestion: Create a new solution as a web application
+###Functionality like proposal:
 1. Log in and Log out;
-2. Changing of password;
-3. Authentication;
-4. Extract .csv report using filter in the system;
-5. Notification to the user after register in the system;
-6. Modal layer as below: (Database containing tables for the entities of the process)
+2. Sign-up fill in the form by typing a username, password
+3. Confirmation mail after signing up;
+4. Changing of password;
+5. Authentication;
+6. Extract .csv report using filter in the system;
+7. Notification to the user after register in the system;
+8. Modal layer as below: (Database containing tables for the entities of the process)
 
 ## Entity Relational Diagram:
 ### Follow the ERD developed in this project.
