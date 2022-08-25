@@ -8,9 +8,8 @@
 4. Changing of password;
 5. Authentication;
 6. Extract .csv report using filter in the system;
-7. Notification to the user after register in the system;
-8. Modal layer as below: (Database containing tables for the entities of the process)
+7. Notification to the user after register a tournament in the system;
 
 ## Entity Relational Diagram:
-### Follow the ERD developed in this project.
+### Follow the ERD developed in this project (Database containing tables for the entities of the process).
 ![test_alten2](https://user-images.githubusercontent.com/67196397/186276478-4085db3c-5d10-4759-b48f-5902d37f65b3.png)
