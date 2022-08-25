@@ -1,7 +1,7 @@
 # python-test
 ### solution proposal
 # Suggestion: Create a new solution as a web application
-###Functionality like proposal:
+### Functionality like proposal:
 1. Log in and Log out;
 2. Sign-up fill in the form by typing a username, password
 3. Confirmation mail after signing up;
