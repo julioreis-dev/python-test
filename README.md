@@ -1,5 +1,5 @@
 # python-test
-### The proposal was created to address all the requirements given to in the test.
+### The proposal of solution was created to address all the requirements given to in the test.
 
 ### Resolution Task 1:
 Inside the folder "answer" there are the file main_1.py and main_refactored_class.py, both
